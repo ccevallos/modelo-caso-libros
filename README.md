@@ -10,3 +10,5 @@ En la carpeta **capacidad** se encuentran los datos de las métricas tomadas del
    - srvapp.zip, contine las métricas en bruto recolectadas por Pandora Software Agent del computador en el que se encontraba el servidor de aplicaciones WildFly.
    - srvbdd.csv, tiene la información consolidada de uso de recursos del computador en el que se encontraba el servidor de base de datos PostgreSQL.
    - srvbdd.zip, contine las métricas en bruto recolectadas por Pandora Software Agent del computador en el que se encontraba el servidor de base de datos PostgreSQL.
+
+Copyright (c) 2020 Carlos Cevallos
